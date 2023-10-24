@@ -1,0 +1,12 @@
+services:
+  - type: web
+    env: node
+    name: sample-backend_1
+    repo: 
+
+  - type: web
+    env: static
+    name: sample-frontend_1
+
+databases:
+  - name: sample_db_1
