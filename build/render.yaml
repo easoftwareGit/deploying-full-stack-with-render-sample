@@ -1,3 +1,0 @@
-services:
-  # A PERN web service
-  - type: web
